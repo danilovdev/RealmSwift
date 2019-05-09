@@ -1,0 +1,7 @@
+target 'MyToDo' do
+  use_frameworks!
+
+  # Pods for MyToDo
+  pod 'RealmSwift'
+
+end
